@@ -1,6 +1,6 @@
 {
   "name": "use-all-five-jscs-rules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom UA5 JavaScript Code Sniffer rules.",
   "repository": {
     "type": "git",
@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/UseAllFive/use-all-five-jscs-rules/issues"
   },
-  "homepage": "https://github.com/UseAllFive/use-all-five-jscs-rules",
-  "devDependencies": {
-    "lodash": "^2.4.1"
-  }
+  "homepage": "https://github.com/UseAllFive/use-all-five-jscs-rules"
 }
